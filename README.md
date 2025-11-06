@@ -38,4 +38,4 @@ Abierto a colaborar en proyectos que combinen **tecnología, diseño y estrategi
 
 ## 📫 Contacto
 
-* **Email**: `gonzaloalfaro2004@alumnos.alborfp.com(mailto:gonzaloalfaro2004@alumnos.alborfp.com)`
+* **Email**: [gonzaloalfaro2004@alumnos.alborfp.com] (mailto:gonzaloalfaro2004@alumnos.alborfp.com)
