@@ -1,41 +1,45 @@
 # 👋 ¡Hola! Soy Gonzalo
 
-💻 **Programador multiplataforma** con experiencia en el desarrollo de aplicaciones que funcionan de manera fluida en distintos entornos (web, escritorio y móvil).
+💻 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-🚀 Me apasiona crear soluciones **eficientes, escalables y bien documentadas**, siempre cuidando la experiencia del usuario y la calidad del código.
+🚀 Apasionado por la tecnología y el desarrollo de software. Me centro en aprender a crear soluciones **eficientes, limpias y funcionales** que funcionen en distintos entornos (web, escritorio y móvil).
 
 ---
 
-## 🔧 Áreas de especialidad
+## 🔧 Tecnologías y Habilidades
 
-* Desarrollo **multiplataforma** (Java, C#, Kotlin, Dart/Flutter, JavaScript/TypeScript)
-* Integración de APIs y servicios externos
-* Optimización de procesos y automatización de flujos de trabajo
-* Buenas prácticas de arquitectura y patrones de diseño
+Actualmente estoy aprendiendo y trabajando con:
+
+* **Lenguajes:** Java, C#, Kotlin, Dart, JavaScript/TypeScript
+* **Frameworks/Plataformas:** Flutter, .NET, Android Nativo (¡Ajusta esto según tus estudios!)
+* **Bases de Datos:** SQL, Firebase
+* **Herramientas:** Git, Docker, Visual Studio Code
+* **Conceptos:** Patrones de diseño, arquitectura de software, metodologías ágiles.
 
 ---
 
 ## 📂 Qué encontrarás en mis repositorios
 
-* Proyectos personales y experimentales
-* Ejemplos prácticos de integración multiplataforma
-* Utilidades y librerías que facilitan el desarrollo
-* Documentación clara y paso a paso para que otros puedan aprender y reutilizar
+* **Proyectos académicos** y personales donde aplico lo aprendido en clase.
+* Ejercicios prácticos de las distintas tecnologías que estoy estudiando.
+* Pequeñas utilidades y herramientas que voy creando en mi tiempo libre.
+* Documentación de mi proceso de aprendizaje.
 
 ---
 
 ## 🌱 Actualmente
 
-Estoy perfeccionando mis proyectos de **landing pages y servicios**, además de trabajar en **plantillas reutilizables** para propuestas y documentación técnica.
+* Cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
+* Enfocado en fortalecer mis bases en desarrollo backend y móvil con Flutter.
+* Siempre aprendiendo y explorando nuevas herramientas y tecnologías.
 
 ---
 
 ## 🤝 Colaboraciones
 
-Abierto a colaborar en proyectos que combinen **tecnología, diseño y estrategia digital**.
+Abierto a colaborar en proyectos *open-source* o con otros estudiantes para aprender y crecer juntos. ¡Si tienes una idea, no dudes en contactarme!
 
 ---
-
 ## 📫 Contacto
 
 * **Email**: [gonzaloalfaro2004@alumnos.alborfp.com](mailto:gonzaloalfaro2004@alumnos.alborfp.com)
